@@ -1,4 +1,21 @@
+
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
+
+# Data / models (adjust as needed)
+data/
+datasets/
+*.tsv
+*.parquet
+*.pkl
 *.joblib
 *.csv
 *.pdf
 *.docx
+*.h5
+models/
