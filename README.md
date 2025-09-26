@@ -12,20 +12,17 @@ Five target areas have been researched to develop models for: length of stay, di
 
 ## Project Structure
 
-\- `notebooks/` – Jupyter notebooks split into preprocessing, algorithm application, training and final models
+\- `notebooks/` – Folder for each target area containing Jupyter notebooks split into preprocessing, algorithm application, training and final models. Feature list csvs have been omitted.
 
-\- `src/` – helper modules (data loading, features, models)
+\- `models/` – trained weights, joblib 
 
-\- `models/` – trained weights
-
-\- `data/` – information only, raw data not included
+\- `data_original/` – information only, raw data not included
 
 \- `requirements.txt` – environment spec
 
-
+\- `reports/` – Gantt chart and figures, actual report not included
 
 ## Setup
-
 
 
 ### pip/venv
