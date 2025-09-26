@@ -16,11 +16,11 @@ Five target areas have been researched to develop models for: length of stay, di
 
 \- `src/` – helper modules (data loading, features, models)
 
-\- `models/` – (ignored or LFS) trained weights
+\- `models/` – trained weights
 
-\- `data/` – (ignored) raw data
+\- `data/` – information only, raw data not included
 
-\- `requirements.txt` or `environment.yml` – environment spec
+\- `requirements.txt` – environment spec
 
 
 
@@ -28,7 +28,7 @@ Five target areas have been researched to develop models for: length of stay, di
 
 
 
-\### Option A: pip/venv
+\### pip/venv
 
 ```bash
 
