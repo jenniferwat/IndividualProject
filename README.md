@@ -1,6 +1,6 @@
 
 
-\# ML Project: Using machine learning for predictive health management of patients admitted to hospital
+# ML Project: Using machine learning for predictive health management of patients admitted to hospital
 
 
 
@@ -10,7 +10,7 @@ Five target areas have been researched to develop models for: length of stay, di
 
 
 
-\## Project Structure
+## Project Structure
 
 \- `notebooks/` – Jupyter notebooks split into preprocessing, algorithm application, training and final models
 
@@ -24,7 +24,7 @@ Five target areas have been researched to develop models for: length of stay, di
 
 
 
-\## Setup
+## Setup
 
 
 
